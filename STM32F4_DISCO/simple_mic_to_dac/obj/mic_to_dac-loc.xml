@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 209" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 36" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\stm32f4_timer_interrupts.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 42" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\adc_interrupt_handling.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 34" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\adc_interrupt_handling.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 64" line=" 69" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\audio_stream.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 73" line=" 80" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\audio_stream.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 1002" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\arch\ARM\STM32\drivers\dma\stm32-dma.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 62" line=" 92" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32_common\stm32f407disco\stm32-board.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 158" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32_common\stm32f407disco\stm32-board.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 576" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\arch\ARM\STM32\drivers\dma\stm32-dma.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 60" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\stm32f4_timer_interrupts.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 43" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\hal\src\hal-audio.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 196" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 39" line=" 48" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 139" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 57" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 139" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 199" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 80" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 62" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 204" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 207" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 87" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 187" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 73" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\components\src\audio\CS43L22\cs43l22.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 57" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\components\src\audio\CS43L22\cs43l22.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 139" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 64" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 201" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 86" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\audio_stream.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 198" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 44" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\adc_interrupt_handling.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 125" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 75" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 204" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 204" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 102" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\arch\ARM\STM32\drivers\stm32-adc.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 206" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 206" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 83" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 83" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 206" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 204" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 84" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 24" line=" 285" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 163" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 70" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 261" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 162" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 97" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 97" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\hal\src\hal.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 285" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 65" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32_common\stm32f407disco\stm32-board.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 115" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 66" line=" 169" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 70" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

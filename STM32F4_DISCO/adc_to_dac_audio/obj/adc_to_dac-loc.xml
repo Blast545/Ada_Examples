@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 55" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 58" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 220" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 58" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 209" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\audio_stream.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 211" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\audio_stream.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\adc_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\adc_to_dac\src\audio_stream.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

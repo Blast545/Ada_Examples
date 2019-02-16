@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_mic_to_dac\simple_mic_to_dac.gpr</vfs_file>
+    <file_marker column=" 1" line=" 21" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_mic_to_dac\simple_mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_mic_to_dac\simple_mic_to_dac.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 70" line=" 165" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_mic_to_dac\simple_mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_mic_to_dac\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 51" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_mic_to_dac\simple_mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_mic_to_dac\src\adc_interrupt_handling.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_mic_to_dac\simple_mic_to_dac.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_mic_to_dac\src\adc_interrupt_handling.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

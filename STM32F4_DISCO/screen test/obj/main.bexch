@@ -1,0 +1,25 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr
+20190129080320
+C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr
+20190116062804
+[BOUND OBJECT FILES]
+C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\obj\bmp_fonts.o
+C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\obj\ili9341_extended.o
+C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\obj\
+-LC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\obj\
+-LC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\shared\common\
+-LC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\obj\full_lib_Debug\
+-LC:\gnat\2018-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f4\adalib\
+-static
+-static-libgcc
+C:\gnat\2018-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f4\adalib\libgnarl.a
+C:\gnat\2018-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f4\adalib\libgnat.a

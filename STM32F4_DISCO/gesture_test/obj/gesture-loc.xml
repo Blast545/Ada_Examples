@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 173" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 38" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\apds9960_interrupts.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 156" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\apds9960_gesture.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 41" line=" 43" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\apds9960_interrupts.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 173" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 32" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 36" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\shared\common\common.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\shared\common\lch_sfp\last_chance_handler.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 39" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\shared\common\lch_sfp\led\last_chance_handler.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 494" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\apds9960_gesture.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\apds9960_gesture.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\apds9960_gesture.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\apds9960_interrupts.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\apds9960_interrupts.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\apds9960_gesture.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 54" line=" 167" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\apds9960_gesture.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\gesture.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\gesture_test\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

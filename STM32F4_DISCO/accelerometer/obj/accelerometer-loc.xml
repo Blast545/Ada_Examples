@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\accelerometer\accelerometer.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 10" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\accelerometer\accelerometer.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\accelerometer\accelerometer.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\accelerometer\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 60" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\accelerometer\accelerometer.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\accelerometer\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 106" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32_common\stm32f407disco\stm32-board.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 60" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\accelerometer\accelerometer.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\accelerometer\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 106" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32_common\stm32f407disco\stm32-board.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 51" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\components\src\motion\lis3dsh\lis3dsh-spi.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\components\src\motion\lis3dsh\lis3dsh-spi.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

@@ -1,0 +1,337 @@
+V "GNAT Lib v2018"
+M P W=b
+A -O0
+A -gnatA
+A --RTS=C:\gnat\2018-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f4\
+A -mlittle-endian
+A -mfloat-abi=hard
+A -mcpu=cortex-m4
+A -mfpu=fpv4-sp-d16
+A -mthumb
+A -gnata
+A -fcallgraph-info=su
+A -fcallgraph-info=su
+A -g
+A -gnatwa
+A -gnatQ
+A -gnatw.X
+A -ffunction-sections
+A -fdata-sections
+P DB LC TF  SS ZX
+
+RN
+RV NO_EXCEPTIONS
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U main%b		main.adb		30e17711 NE OO SU IL
+Z ada.exceptions%s	a-except.adb		a-except.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+W hal%s			hal.ads			hal.ali
+W last_chance_handler%s	last_chance_handler.adb	last_chance_handler.ali
+W stm32%s		stm32.ads		stm32.ali
+W stm32.adc%s		stm32-adc.adb		stm32-adc.ali
+W stm32.board%s		stm32-board.adb		stm32-board.ali
+W stm32.dac%s		stm32-dac.adb		stm32-dac.ali
+W stm32.device%s	stm32-device.adb	stm32-device.ali
+W stm32.dma%s		stm32-dma.adb		stm32-dma.ali
+W stm32.gpio%s		stm32-gpio.adb		stm32-gpio.ali
+W stm32.timers%s	stm32-timers.adb	stm32-timers.ali
+W system%s		system.ads		system.ali
+
+D ada.ads		20180524194940 76789da1 ada%s
+D a-except.ads		20180524194940 291912d5 ada.exceptions%s
+D a-finali.ads		20180524194940 bf4f806b ada.finalization%s
+D a-interr.ads		20180524194940 bdf68b51 ada.interrupts%s
+D a-intnam.ads		20180524194940 cdde51a1 ada.interrupts.names%s
+D a-reatim.ads		20180524194940 4c16970e ada.real_time%s
+D a-stream.ads		20180524194940 119b8fb3 ada.streams%s
+D a-tags.ads		20180524194940 491b781d ada.tags%s
+D a-taside.ads		20180524194940 c3e0cda8 ada.task_identification%s
+D a-unccon.ads		20180524194940 0e9b276f ada.unchecked_conversion%s
+D cs43l22.ads		20190116062806 f00c1f00 cs43l22%s
+D hal.ads		20190116062806 2b42c80e hal%s
+D hal-audio.ads		20190116062806 6baea1e9 hal.audio%s
+D hal-block_drivers.ads	20190116062806 3a6f071f hal.block_drivers%s
+D hal-gpio.ads		20190116062806 7f0c2ffe hal.gpio%s
+D hal-i2c.ads		20190116062806 0ed73138 hal.i2c%s
+D hal-real_time_clock.ads  20190116062806 9dd52fca hal.real_time_clock%s
+D hal-sdmmc.ads		20190116062806 7293c891 hal.sdmmc%s
+D hal-spi.ads		20190116062806 fe139819 hal.spi%s
+D hal-time.ads		20190116062806 f5295cd7 hal.time%s
+D hal-uart.ads		20190116062806 d58316b4 hal.uart%s
+D interfac.ads		20180524194940 5ab55268 interfaces%s
+D i-stm32.ads		20180524194940 4d2e1e9b interfaces.stm32%s
+D i-stm32-pwr.ads	20180524194940 10ed2a13 interfaces.stm32.pwr%s
+D last_chance_handler.ads  20190116062806 da51f004 last_chance_handler%s
+D lis3dsh.ads		20190116062806 3fd4b6f2 lis3dsh%s
+D lis3dsh-spi.ads	20190116062806 83b156b5 lis3dsh.spi%s
+D main.adb		20190207015942 64e3c4c7 main%b
+D ravenscar_time.ads	20190116062806 7a23edc6 ravenscar_time%s
+D sdmmc_svd_periph.ads	20190116062804 b49674fe sdmmc_svd_periph%s
+D stm32.ads		20190116062804 698e2c3b stm32%s
+D stm32-adc.ads		20190116062804 a0a7f671 stm32.adc%s
+D stm32-board.ads	20190116062804 e4737e25 stm32.board%s
+D stm32-crc.ads		20190116062804 9ef7b3c1 stm32.crc%s
+D stm32-dac.ads		20190116062804 bbc963b4 stm32.dac%s
+D stm32-device.ads	20190116062804 a0a2ec53 stm32.device%s
+D stm32-dma.ads		20190116062804 a485c5f7 stm32.dma%s
+D stm32-dma-interrupts.ads  20190116062804 0810c00a stm32.dma.interrupts%s
+D stm32-exti.ads	20190116062804 27a7d05f stm32.exti%s
+D stm32-gpio.ads	20190116062804 e66d5cab stm32.gpio%s
+D stm32-i2c.ads		20190116062804 2a3b9b70 stm32.i2c%s
+D stm32-i2c-dma.ads	20190116062804 75d445d8 stm32.i2c.dma%s
+D stm32-i2s.ads		20190116062804 8099fbc7 stm32.i2s%s
+D stm32-rtc.ads		20190116062804 ff58a3e8 stm32.rtc%s
+D stm32-sdmmc.ads	20190116062804 4cae3006 stm32.sdmmc%s
+D stm32-sdmmc_interrupt.ads  20190116062804 6fda8a6a stm32.sdmmc_interrupt%s
+D stm32-spi.ads		20190116062804 98127252 stm32.spi%s
+D stm32-spi-dma.ads	20190116062804 030a0921 stm32.spi.dma%s
+D stm32-timers.ads	20190116062804 63c500b2 stm32.timers%s
+D stm32-usarts.ads	20190116062804 c32302c7 stm32.usarts%s
+D stm32_svd.ads		20190116062804 eeda8404 stm32_svd%s
+D stm32_svd-adc.ads	20190116062804 0c4598f6 stm32_svd.adc%s
+D stm32_svd-crc.ads	20190116062804 f8fb8ec8 stm32_svd.crc%s
+D stm32_svd-dac.ads	20190116062804 7ce3d16d stm32_svd.dac%s
+D stm32_svd-dma.ads	20190116062804 cbdaf790 stm32_svd.dma%s
+D stm32_svd-gpio.ads	20190116062804 d1b361bd stm32_svd.gpio%s
+D stm32_svd-i2c.ads	20190116062804 bbdaed5e stm32_svd.i2c%s
+D stm32_svd-sdio.ads	20190116062804 586e3cc2 stm32_svd.sdio%s
+D stm32_svd-spi.ads	20190116062804 9452a68a stm32_svd.spi%s
+D stm32_svd-usart.ads	20190116062804 e4981db8 stm32_svd.usart%s
+D system.ads		20180524194940 db831581 system%s
+D s-bb.ads		20180524194940 09e072ae system.bb%s
+D s-bbbopa.ads		20180524194940 95d97b26 system.bb.board_parameters%s
+D s-bbbosu.ads		20180524194940 0f820a2a system.bb.board_support%s
+D s-bbcppr.ads		20180524194940 bcfa73ad system.bb.cpu_primitives%s
+D s-bbinte.ads		20180524194940 c88d39da system.bb.interrupts%s
+D s-bbmcpa.ads		20180524194940 c4c55388 system.bb.mcu_parameters%s
+D s-bbpara.ads		20180524194940 431abc17 system.bb.parameters%s
+D s-bbthre.ads		20180524194940 c94b446f system.bb.threads%s
+D s-bbthqu.ads		20180524194940 db3cad46 system.bb.threads.queues%s
+D s-bbtime.ads		20180524194940 ad086247 system.bb.time%s
+D s-finmas.ads		20180524194940 7811a767 system.finalization_masters%s
+D s-finroo.ads		20180524194940 4ff27390 system.finalization_root%s
+D s-interr.ads		20180524194940 f1954f09 system.interrupts%s
+D s-multip.ads		20180524194940 f33e0e35 system.multiprocessors%s
+D s-mufalo.ads		20180524194940 3dca0374 system.multiprocessors.fair_locks%s
+D s-musplo.ads		20180524194940 69fa25c4 system.multiprocessors.spin_locks%s
+D s-osinte.ads		20180524194940 229b14dd system.os_interface%s
+D s-parame.ads		20180524194940 d106111e system.parameters%s
+D s-pooglo.ads		20180524194940 ede33ef8 system.pool_global%s
+D s-secsta.ads		20180524194940 56a2861c system.secondary_stack%s
+D s-stalib.ads		20180524194940 09bd3940 system.standard_library%s
+D s-stm32.ads		20180524194940 e898dba2 system.stm32%s
+D s-stoele.ads		20180524194940 2dc34a04 system.storage_elements%s
+D s-stopoo.ads		20180524194940 b16154c2 system.storage_pools%s
+D s-stratt.ads		20180524194940 aedef97e system.stream_attributes%s
+D s-tasinf.ads		20180524194940 801abd01 system.task_info%s
+D s-taspri.ads		20180524194940 351848fa system.task_primitives%s
+D s-taskin.ads		20180524194940 58b15916 system.tasking%s
+D s-taprob.ads		20180524194940 c8fc0753 system.tasking.protected_objects%s
+D s-tpoben.ads		20180524194940 8351b91e system.tasking.protected_objects.entries%s
+D s-traent.ads		20180524194940 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20180524194940 34867c83 system.unsigned_types%s
+X 12 hal.ads
+34K9*HAL 166e8 28|48w6 48r24
+45M9*UInt5
+66M9*UInt16<22|66M9>
+97M9*UInt32<22|74M9> 28|97r13 284r17
+X 13 hal-audio.ads
+61h9*Audio_Stream
+X 14 hal-block_drivers.ads
+34h9*Block_Driver
+X 15 hal-gpio.ads
+47h9*GPIO_Point
+X 16 hal-i2c.ads
+48h9*I2C_Port
+X 17 hal-real_time_clock.ads
+79h9*RTC_Device
+X 18 hal-sdmmc.ads
+380h9*SDMMC_Driver
+X 19 hal-spi.ads
+48h9*SPI_Port
+X 20 hal-time.ads
+34h9*Delays
+X 21 hal-uart.ads
+48h9*UART_Port
+X 22 interfac.ads
+66M9*Unsigned_16
+74M9*Unsigned_32
+X 25 last_chance_handler.ads
+36K9*Last_Chance_Handler 42e24 28|46w6 46r53
+38U14*Last_Chance_Handler 39i<c,__gnat_last_chance_handler>22
+X 28 main.adb
+60U11*main 60b11 288l5 288t9
+66r4 Controller=66:40{37|91R9} 165r21 167r14 181r18 183r25 186r10 192r15
+68e4 Stream{37|96E9} 167r26 181r30 183r37 187r10 192r27
+70e4 Selected_DMA_Channel{37|363E9} 169r46
+74r4 Selected_Timer=74:35{49|52R9} 201r21 202r18 203r30 264r12
+76e4 Selected_Trigger{35|156E9} 215r53
+81r4 Selected_DAC=81:55{35|50R9} 87r21 213r21 214r14 215r23 216r23 217r15
+. 218r19
+83e4 Output_Channel{35|52E9} 87r35 212r27 215r37 216r37 217r29 218r33
+86m4 DAC_Data_Register_Address{61|80M9} 189r25
+97m4 Counts{12|97M9} 188m25 188r25 284m7
+106r4 MIC_GPIO=106:35{40|138R9} 228r21
+107r4 MIC_CONF{40|123R9} 228r31
+108r4 ADC_USED=108:51{32|76R9} 229r20
+109m4 VMic_Channel{32|78M12} 110r59
+110r4 VMic{32|80R9} 112r24 239r10 244r10 251r15 278r25 279r24 284r43
+111a4 All_Regular_Conversions{32|190A9} 248r25
+114b4 Successful{boolean} 279m75 280r14
+115X4 Timed_Out 281r16
+120U14 Configure_DAC_GPIO 120>34 149b14 156l8 156t26 212s7
+120e34 Output_Channel{35|52E9} 149b34 150r43
+122U14 Initialize_DMA 162b14 193l8 193t22 261s4
+124U14 Initialize_Timer 199b14 204l8 204t24 260s4
+126U14 Initialize_DAC 210b14 219l8 219t22 262s4
+150r7 Output{40|138R9} 154r21 155r21
+163r7 Config{37|507R9} 169m7 170m7 171m7 172m7 173m7 174m7 175m7 176m7 177m7
+. 178m7 179m7 180m7 181r38
+224U14 Initialize_ADC 224b14 252l8 252t22 259s4
+X 31 stm32.ads
+39K9*STM32 28|49r6 49r24 50r6 50r24 51r6 51r24 52r6 52r24 53r6 53r24 54r6
+. 54r24 55r6 55r24 31|48e10
+X 32 stm32-adc.ads
+73K15*ADC 28|55w12 55r30 32|751e14
+76R9*Analog_To_Digital_Converter<52|720R9> 28|108r15
+78M12*Analog_Input_Channel{12|45M9} 28|109r28
+80R9*ADC_Point 28|110r20 32|83e14
+81p7*ADC(76R9) 28|239r15 244r15 251r20 278r30 279r29 284r48
+82m7*Channel{78M12} 28|110m48 112r29
+103U14*Enable 28|251s7
+112n7*ADC_Resolution_12_Bits{111E9} 28|240r24
+117n28*Right_Aligned{117E9} 28|241r24
+119U14*Configure_Unit 28|238s7
+121e7 Resolution{111E9} 28|240r10
+122e7 Alignment{117E9} 28|241r10
+135n7*Sample_15_Cycles{133E9} 28|112r53
+182r4*Software_Triggered{172R9} 28|246r25
+186m7*Channel{78M12} 28|112m13
+187e7*Sample_Time{133E9} 28|112m38
+190A9*Regular_Channel_Conversions(185R9)<150I9> 28|111r39
+193U14*Configure_Regular_Conversions 28|243s7
+195b7 Continuous{boolean} 28|245r10
+196r7 Trigger{172R9} 28|246r10
+197b7 Enable_EOC{boolean} 28|247r10
+198a7 Conversions{190A9} 28|248r10
+320U14*Start_Conversion 28|278s7
+330V13*Conversion_Value{12|66M9} 28|284s25
+495n7*Regular_Channel_Conversion_Complete{490E9} 28|279r38
+512U14*Poll_For_Status 28|279s7
+558n7*PCLK2_Div_2{557E9} 28|234r28
+564n7*Disabled{563E9} 28|235r28
+570n7*Sampling_Delay_5_Cycles{569E9} 28|236r28
+588n7*Independent{587E9} 28|233r28
+617U14*Configure_Common_Properties 28|232s7
+618e7 Mode{587E9} 28|233r10
+619e7 Prescalar{557E9} 28|234r10
+620e7 DMA_Mode{563E9} 28|235r10
+621e7 Sampling_Delay{569E9} 28|236r10
+X 33 stm32-board.ads
+60K15*Board 28|49w12 49r30 33|156e16
+65r4*Green_LED=65:34{40|138R9} 28|285r7
+73U14*Initialize_LEDs 28|255s4
+80U14*All_LEDs_Off 28|256s4
+151U14*Configure_User_Button_GPIO 28|257s4
+X 35 stm32-dac.ads
+48K15*DAC 28|52w12 52r30 35|339e14
+50R9*Digital_To_Analog_Converter<54|367R9> 28|81r19
+52E9*DAC_Channel 28|83r30 120r51 149r51 35|52e46
+52n25*Channel_1{52E9} 28|83r45 150r60
+56U14*Enable 28|217s7
+85n28*DAC_Resolution_12_Bits{85E9} 28|87r51
+90n42*Right_Aligned{90E9} 28|87r75
+156E9*External_Event_Trigger_Selection 28|76r32 35|164e24
+157n7*Timer_6_Output_Trigger{156E9} 28|76r68
+166U14*Select_Trigger 28|215s7
+182U14*Enable_Trigger 28|216s7
+197U14*Enable_DMA 28|218s7
+324V13*Data_Address{61|80M9} 28|87s7
+X 36 stm32-device.ads
+63K15*Device 28|50w12 50r30 36|512e17
+70U14*Enable_Clock 28|227s7
+71U14*Enable_Clock 28|154s7
+85r4*GPIO_B{40|51R9} 28|227m21 227r21
+110r4*PB0{40|138R9} 28|106r35
+285r4*ADC_2{32|76R9} 28|108m51 108r51 110m34 110r34
+300U14*Enable_Clock 28|229s7
+304r4*DAC_1{35|50R9} 28|81m55 81r55
+306r4*DAC_Channel_1_IO=306:42{40|138R9} 28|151r45
+307r4*DAC_Channel_2_IO=307:42{40|138R9} 28|152r45
+309U14*Enable_Clock 28|213s7
+311U14*Reset 28|214s7
+331r4*DMA_1{37|91R9} 28|66m40 66r40
+334U14*Enable_Clock 28|165s7
+395r4*Timer_6{49|52R9} 28|74m35 74r35
+405U14*Enable_Clock 28|201s7
+X 37 stm32-dma.ads
+89K15*DMA 28|53w12 53r30 37|627e14
+91R9*DMA_Controller<55|1386R9> 28|66r17
+96E9*DMA_Stream_Selector 28|68r22 37|104e16
+102n7*Stream_5{96E9} 28|68r45
+106U14*Enable 28|192s7
+126U14*Reset 28|167s7
+155U14*Configure_Data_Flow 28|185s7
+158m7 Source{61|80M9} 28|188r10
+159m7 Destination{61|80M9} 28|189r10
+160m7 Data_Count{12|66M9} 28|190r10
+348U14*Clear_All_Status 28|183s7
+363E9*DMA_Channel_Selector 28|70r36 37|371e17
+371n7*Channel_7{363E9} 28|70r60
+380n7*Memory_To_Peripheral{378E9} 28|170r46
+393n7*HalfWords{391E9} 28|171r46 172r46
+409n7*Circular_Mode{406E9} 28|175r46
+420n7*Priority_Very_High{416E9} 28|176r46
+483n7*FIFO_Threshold_Half_Full_Configuration{481E9} 28|178r46
+496n7*Memory_Burst_Single{495E9} 28|179r46
+502n7*Peripheral_Burst_Single{501E9} 28|180r46
+507R9*DMA_Stream_Configuration 28|163r16 37|574e14
+517e7*Channel{363E9} 28|169m14
+524e7*Direction{378E9} 28|170m14
+526b7*Increment_Peripheral_Address{boolean} 28|173m14
+530b7*Increment_Memory_Address{boolean} 28|174m14
+534e7*Peripheral_Data_Format{391E9} 28|172m14
+539e7*Memory_Data_Format{391E9} 28|171m14
+543e7*Operation_Mode{406E9} 28|175m14
+547e7*Priority{416E9} 28|176m14
+550b7*FIFO_Enabled{boolean} 28|177m14
+560e7*FIFO_Threshold{481E9} 28|178m14
+565e7*Memory_Burst_Size{495E9} 28|179m14
+570e7*Peripheral_Burst_Size{501E9} 28|180m14
+576U14*Configure 28|181s7
+X 40 stm32-gpio.ads
+49K15*GPIO 28|51w12 51r30 40|295e15
+51R9*GPIO_Port<56|384R9>
+87n54*Mode_Analog{87E9} 28|107r61 155r38
+115n36*Floating{115E9} 28|107r87 155r64
+123R9*GPIO_Port_Configuration 28|107r25 40|136e14
+123e34*Mode{87E9} 28|107m53 155m30
+124e7*Resistors{115E9} 28|107m74 155m51
+138R9*GPIO_Point<15|47R9> 28|106r16 150r25 40|143e14
+188U14*Toggle<15|92p14> 28|285s17
+207U14*Configure_IO 28|155s7 228s7
+X 49 stm32-timers.ads
+50K15*Timers 28|54w12 54r30 49|1519e17
+52R9*Timer 28|74r21 49|1495e15
+54U14*Enable 28|264s4
+65U14*Configure 28|202s7
+67m7 Prescaler{12|66M9} 28|202r34
+68m7 Period{12|97M9} 28|202r50
+794n7*Update{791E9} 28|203r56
+801U14*Select_Output_Trigger 28|203s7
+803e7 Source{791E9} 28|203r46
+X 61 system.ads
+50K9*System 28|58w6 86r41 61|164e11
+80M9*Address 28|86r48
+X 74 s-interr.ads
+97U14*Install_Restricted_Handlers_Sequential 98i<c,__gnat_attach_all_handlers>22
+X 81 s-secsta.ads
+46P9*SS_Stack_Ptr(43R9)
+X 89 s-taskin.ads
+407V13*Get_Sec_Stack{81|46P9} 408i<c,__gnat_get_secondary_stack>22
+

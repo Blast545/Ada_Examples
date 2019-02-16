@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 11" line=" 174" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 39" line=" 97" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32_common\stm32f407disco\stm32-board.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32_common\stm32f407disco\stm32-board.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 174" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 24" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\arch\ARM\STM32\drivers\stm32.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 48" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\hal\src\hal-spi.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 87" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 55" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 58" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 57" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 58" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 212" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 58" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 57" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 122" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 75" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 78" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 91" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 241" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 284" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 122" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 75" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 78" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 91" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 241" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 284" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 288" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 86" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 120" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 256" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\arch\ARM\STM32\devices\stm32f40x\stm32-device.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 152" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 152" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 131" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 111" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 55" line=" 122" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 55" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 75" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 78" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 91" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 241" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 91" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 284" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 64" line=" 575" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 224" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 122" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 75" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 78" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 93" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 90" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 599" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 579" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 163" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\shared\common\common.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\shared\common\gui\bmp_fonts.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\shared\common\common.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\shared\common\gui\bmp_fonts.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 146" >
+      <vfs_project>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\screen.gpr</vfs_project>
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 14" line=" 154" >
+      <vfs_project />
+      <vfs_file>C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\screen test\src\ili9341_extended.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

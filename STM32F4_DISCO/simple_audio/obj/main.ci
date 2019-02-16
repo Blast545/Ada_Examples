@@ -1,0 +1,38 @@
+edge: { sourcename: "main__TTsynthSCFD"
+  targetname: "-9:hal__audio__audio_stream,hal__audio__audio_stream"
+  label: "main.adb:48:4"
+}
+graph: { title: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb"
+node: { title: "simple_synthesizer__receive" label: "Receive\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\middleware\src\audio\simple_synthesizer.ads:55:14" shape : ellipse }
+node: { title: "audio_stream__double_buffer_controller__not_in_transferP" label: "Not_In_Transferp\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\audio_stream.ads:55:7" shape : ellipse }
+node: { title: "system__tasking__protected_objects__operations__protected_entry_call" label: "Protected_Entry_Call\nC:\gnat\2018-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f4\gnat\s-tpobop.ads:55:14" shape : ellipse }
+node: { title: "system__tasking__protected_objects__operations__communication_blockIP" label: "Communication_Blockip\nC:\gnat\2018-arm-elf\arm-eabi\lib\gnat\ravenscar-full-stm32f4\gnat\s-tpobop.ads:115:9" shape : ellipse }
+node: { title: "simple_synthesizer__set_note_frequency" label: "Set_Note_Frequency\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\middleware\src\audio\simple_synthesizer.ads:43:14" shape : ellipse }
+node: { title: "stm32__user_button__has_been_pressed" label: "HAS_BEEN_PRESSED\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32_common\common\stm32-user_button.ads:42:13" shape : ellipse }
+node: { title: "audio_stream__double_buffer_controller__startP" label: "Startp\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\audio_stream.ads:47:7" shape : ellipse }
+node: { title: "stm32__i2s__data_register_address" label: "DATA_REGISTER_ADDRESS\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\arch\ARM\STM32\drivers\stm32-i2s.ads:113:13" shape : ellipse }
+node: { title: "cs43l22__play" label: "PLAY\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\components\src\audio\CS43L22\cs43l22.ads:69:14" shape : ellipse }
+node: { title: "cs43l22__set_volume" label: "SET_VOLUME\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\components\src\audio\CS43L22\cs43l22.ads:73:14" shape : ellipse }
+node: { title: "simple_synthesizer__set_frequency" label: "Set_Frequency\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\middleware\src\audio\simple_synthesizer.ads:47:14" shape : ellipse }
+node: { title: "stm32__user_button__initialize" label: "INITIALIZE\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32_common\common\stm32-user_button.ads:38:14" shape : ellipse }
+node: { title: "stm32__board__initialize_audio" label: "INITIALIZE_AUDIO\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32_common\stm32f407disco\stm32-board.ads:85:14" shape : ellipse }
+node: { title: "stm32__board__initialize_leds" label: "INITIALIZE_LEDS\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32_common\stm32f407disco\stm32-board.ads:73:14" shape : ellipse }
+node: { title: "simple_synthesizer__synthesizerIP" label: "Synthesizerip\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\middleware\src\audio\simple_synthesizer.ads:58:9" shape : ellipse }
+node: { title: "_ada_main" label: "Main\nC:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:46:1\n368 bytes (static)" }
+edge: { sourcename: "_ada_main" targetname: "simple_synthesizer__receive" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:85:15" }
+edge: { sourcename: "_ada_main" targetname: "simple_synthesizer__receive" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:83:15" }
+edge: { sourcename: "_ada_main" targetname: "audio_stream__double_buffer_controller__not_in_transferP" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:82:26" }
+edge: { sourcename: "_ada_main" targetname: "system__tasking__protected_objects__operations__protected_entry_call" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:80:23" }
+edge: { sourcename: "_ada_main" targetname: "system__tasking__protected_objects__operations__communication_blockIP" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:80:23" }
+edge: { sourcename: "_ada_main" targetname: "simple_synthesizer__set_note_frequency" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:79:12" }
+edge: { sourcename: "_ada_main" targetname: "stm32__user_button__has_been_pressed" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:72:27" }
+edge: { sourcename: "_ada_main" targetname: "audio_stream__double_buffer_controller__startP" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:66:20" }
+edge: { sourcename: "_ada_main" targetname: "stm32__i2s__data_register_address" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:66:64" }
+edge: { sourcename: "_ada_main" targetname: "cs43l22__play" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:64:25" }
+edge: { sourcename: "_ada_main" targetname: "cs43l22__set_volume" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:62:25" }
+edge: { sourcename: "_ada_main" targetname: "simple_synthesizer__set_frequency" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:61:9" }
+edge: { sourcename: "_ada_main" targetname: "stm32__user_button__initialize" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:58:21" }
+edge: { sourcename: "_ada_main" targetname: "stm32__board__initialize_audio" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:57:4" }
+edge: { sourcename: "_ada_main" targetname: "stm32__board__initialize_leds" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:55:4" }
+edge: { sourcename: "_ada_main" targetname: "simple_synthesizer__synthesizerIP" label: "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\examples\STM32F4_DISCO\simple_audio\src\main.adb:48:4" }
+}

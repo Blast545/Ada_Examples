@@ -1,0 +1,7 @@
+project STM32F407_Discovery_Full_Extending extends "C:\Users\DELL\Downloads\ADA_\Ada_Drivers_Library\boards\stm32f407_discovery\stm32f407_discovery_full.gpr" is
+
+   for Object_Dir use "C:/Users/DELL/Downloads/ADA_/Ada_Drivers_Library/examples/STM32F4_DISCO/screen test/";
+   for Source_Files use ("stm32-device.ads");
+
+end STM32F407_Discovery_Full_Extending;
+
